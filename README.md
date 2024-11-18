@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte da disciplina **Aprendizado de Máquina
 ### Instalação das Dependências  
 Use o seguinte comando para instalar as dependências no terminal:  
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 ```
 ## 📊 Resultados
 Os principais resultados do projeto incluem:
