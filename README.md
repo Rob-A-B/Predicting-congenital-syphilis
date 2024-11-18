@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte da disciplina **Aprendizado de Máquina
 
 ## ⚙️ Requisitos e Configuração  
 ### Requisitos  
-- Python 3.10.12
+- Python (Versão 3.8 ou acima)
 - Bibliotecas necessárias:  
   - `pandas`  
   - `numpy`  
