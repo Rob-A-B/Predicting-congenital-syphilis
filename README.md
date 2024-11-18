@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte da disciplina **Aprendizado de Máquina
 
 ## ⚙️ Requisitos e Configuração  
 ### Requisitos  
-- Python 3.x  
+- Python 3.10.12
 - Bibliotecas necessárias:  
   - `pandas`  
   - `numpy`  
@@ -26,11 +26,12 @@ Os principais resultados do projeto incluem:
 - **Classificação**: Previsão do resultado do exame VDRL com modelos como Árvores de Decisão e Random Forest, avaliados por métricas como precisão, recall e F1-score.
 - **Regressão**: Modelos de regressão, como RandomForestRegressor, para explorar os fatores que influenciam a idade das gestantes.
 - **Insights**: Identificação de fatores sociodemográficos e clínicos mais relevantes para a prevenção da sífilis congênita.
+
 ## 🧐 Informações adicionais
 ### Equipe:
-- @rob-a-b  
-- @JulioHolanda  
-- @NicoleVictory  
+- Roberto Arruda: @rob-a-b  
+- Julio Holanda: @JulioHolanda  
+- Nicole Victory: @NicoleVictory  
 
 ## 📝 Licença
 Este projeto está sob a licença MIT.
